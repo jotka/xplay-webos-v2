@@ -1,5 +1,6 @@
 var i18n = (
     {
+        s001: 'bublikOff <xplay@itkey.ru>',
         s001: 'Restart',
         s002: 'Email for support and feedback <span style="color:#FFA500">xplay@itkey.ru</span> or visit forum <span style="color:#FFA500">http://xplay.itkey.ru/forum/</span>',
         s003: 'To sign in, visit <span style="color:#FFA500">https://plex.tv/link</span> and enter the code above.',
