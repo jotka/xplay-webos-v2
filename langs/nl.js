@@ -245,6 +245,6 @@ var i18n = (
         s233: 'Demo-periode verloopt over {0} dag (en)',
         s234: 'Demo-periode verloopt over {0}',
         s235: 'S{0}',
-        s236: 'E{0}',
-        s237: 'Settings'
+        s236: 'A{0}',
+        s237: 'Instellingen'
       });
