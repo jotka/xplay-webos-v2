@@ -247,4 +247,6 @@ var i18n = (
         s232: 'An unknown error occurred',
         s233: 'Demo period expires in {0} day(s)',
         s234: 'Demo period expires in {0}',
+        s235: 'S{0}',
+        s236: 'E{0}'
     });

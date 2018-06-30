@@ -247,4 +247,6 @@ var i18n = (
         s232: 'Ilmnes tundmatu viga',
         s233: 'Demoperiood lõppeb {0} päeva pärast',
         s234: 'Demoperiood lõppeb {0}',
+        s235: 'S{0}',
+        s236: 'E{0}'
     });

@@ -243,5 +243,7 @@ var i18n = (
         s231: 'Er is een onbekende fout opgetreden (niet-gedefinieerde code)',
         s232: 'Een onbekende fout is opgetreden',
         s233: 'Demo-periode verloopt over {0} dag (en)',
-        s234: 'Demo-periode verloopt over {0}'
+        s234: 'Demo-periode verloopt over {0}',
+        s235: 'S{0}',
+        s236: 'E{0}'
       });
