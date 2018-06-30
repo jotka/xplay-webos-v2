@@ -165,7 +165,7 @@ var i18n = (
         s156: 'Ontkoppel Plex-account',
         s157: 'Deze versie van de applicatie heeft een beperkte perdiode van gebruik. Om deze limitatie te verwijderen kun je onze website bezoeken: <span style="color:#FFA500">https://xplay.itkey.ru</span><br> en je gebruikers ID opgeven.',
         s158: 'Onofficiële client voor Plex Media Server.',
-        s159: 'Logo\'s, handelsmerken en andere geregistreerde handelsmerken zijn eigendom van hun respectievelijke eigenaren.<br/>Alle rechten voorbehouden.',
+        s159: 'Logo\'s, handelsmerken en andere geregistreerde handelsmerken zijn eigendom van hun<br/>respectievelijke eigenaren.Alle rechten voorbehouden.',
         s160: 'Reset naar standaard instellingen',
 
         // -- ... --
