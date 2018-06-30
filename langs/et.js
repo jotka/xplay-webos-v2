@@ -168,7 +168,7 @@ var i18n = (
         s156: 'Plexi konto eemaldamine',
         s157: 'See programmi versioon on piiratud kasutusajaga.<br/>Piirangu eemaldamiseks palun külastage meie veebi <span style="color:#FFA500">https://xplay.itkey.ru</span><br>ja ärge unustage oma kasutaja ID-d.',
         s158: 'Plex Media Serveri mitteametlik klient.',
-        s159: 'Logod, firmamärgid ja muud registreeritud kaubamärgid kuuluvad nende omanikele.<br>Kõik õigused on kaitstud.',
+        s159: 'Logod, firmamärgid ja muud registreeritud kaubamärgid kuuluvad<br>nende omanikele. Kõik õigused on kaitstud.',
         s160: 'Vaikesätete taastamine',
 
         // -- ... --
