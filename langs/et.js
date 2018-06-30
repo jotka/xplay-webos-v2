@@ -248,5 +248,6 @@ var i18n = (
         s233: 'Demoperiood lõppeb {0} päeva pärast',
         s234: 'Demoperiood lõppeb {0}',
         s235: 'H{0}',
-        s236: 'O{0}'
+        s236: 'O{0}',
+        s237: 'Seaded'
     });
