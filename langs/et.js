@@ -1,6 +1,6 @@
 var i18n = (
     {
-        s000: 'Eesti tõlge Argo "Six" Sieger<span style="color:#FFA500">six@six.ee</span>',
+        s000: 'Eesti tõlge Argo "Six" Sieger <span style="color:#FFA500">six@six.ee</span>',
         s001: 'Taaskäivita',
         s002: 'Kasutajatoeks ja tagasiside andmiseks kirjutage <span style="color:#FFA500">xplay@itkey.ru</span> või külastage foorumit <span style="color:#FFA500">http://xplay.itkey.ru/forum/</span>',
         s003: 'Sisselogimiseks minge <span style="color:#FFA500">https://plex.tv/link</span> ja sisestage eeltoodud kood.',
@@ -56,7 +56,7 @@ var i18n = (
         s044: 'Liidese keel',
         s045: 'Tundmatu',
         s046: 'Kella vorming',
-        s047: 'Jätka vaatamist',
+        s047: 'Kuva "Pooleli"',
         s048: 'Tunnusmuusika',
         s049: 'Ei',
         s050: 'Jah',
@@ -93,8 +93,8 @@ var i18n = (
         s081: 'Kvaliteet',
         s082: 'Transkodeerimise kvaliteet',
         s083: 'Algne',
-        s084: 'Helitugevus',
-        s085: 'Transkodeerimise helitugevus',
+        s084: 'Helivõimendus',
+        s085: 'Transkodeerimise helivõimendus',
         s086: 'Väike',
         s087: 'Suur',
         s088: 'Ülisuur',
