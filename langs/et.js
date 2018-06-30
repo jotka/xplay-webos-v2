@@ -1,6 +1,6 @@
 var i18n = (
     {
-        s000: 'Eesti tõlge Argo "Six" Sieger <span style="color:#FFA500">six@six.ee</span>',
+        s000: 'Eesti tõlge: Argo "Six" Sieger <span style="color:#FFA500">six@six.ee</span>',
         s001: 'Taaskäivita',
         s002: 'Kasutajatoeks ja tagasiside andmiseks kirjutage <span style="color:#FFA500">xplay@itkey.ru</span> või külastage foorumit <span style="color:#FFA500">http://xplay.itkey.ru/forum/</span>',
         s003: 'Sisselogimiseks minge <span style="color:#FFA500">https://plex.tv/link</span> ja sisestage eeltoodud kood.',
@@ -247,6 +247,6 @@ var i18n = (
         s232: 'Ilmnes tundmatu viga',
         s233: 'Demoperiood lõppeb {0} päeva pärast',
         s234: 'Demoperiood lõppeb {0}',
-        s235: 'S{0}',
-        s236: 'E{0}'
+        s235: 'H{0}',
+        s236: 'O{0}'
     });
