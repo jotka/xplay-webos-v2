@@ -81,7 +81,10 @@ var i18n = (
         s069: 'Playback',
         s070: 'Playback mode',
         s071: 'Auto play next episode',
+
+        // Auto play next episode
         s072: 'Ask',
+
         s073: 'Controls wake up',
         s074: 'Cursor move',
         s075: 'Button press',
@@ -249,5 +252,8 @@ var i18n = (
         s234: 'Demo period expires in {0}',
         s235: 'S{0}',
         s236: 'E{0}',
-        s237: 'Settings'
+        s237: 'Settings',
+
+        // Auto play next episode
+        s238: 'Yes'
     });

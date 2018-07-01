@@ -78,7 +78,10 @@ var i18n = (
         s069: 'Afspelen',
         s070: 'Afspeelmodus',
         s071: 'Speel volgende aflevering automatisch',
+
+        // Auto play next episode
         s072: 'Vraag',
+
         s073: 'Ontwaak besturing',
         s074: 'Cursor verplaatsen',
         s075: 'Druk op knop',
@@ -246,5 +249,8 @@ var i18n = (
         s234: 'Demo-periode verloopt over {0}',
         s235: 'S{0}',
         s236: 'A{0}',
-        s237: 'Instellingen'
+        s237: 'Instellingen',
+
+        // Auto play next episode
+        s238: 'Ja'
       });

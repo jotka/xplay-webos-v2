@@ -81,7 +81,10 @@ var i18n = (
         s069: 'Taasesitus',
         s070: 'Taasesitusrežiim',
         s071: 'Järgmise osa esitamine',
+
+        // Auto play next episode
         s072: 'Küsi',
+
         s073: 'Juhtelementide kuvamine',
         s074: 'Kursori liigutus',
         s075: 'Nupuvajutus',
@@ -249,5 +252,8 @@ var i18n = (
         s234: 'Demoperiood lõppeb {0}',
         s235: 'H{0}',
         s236: 'O{0}',
-        s237: 'Seaded'
+        s237: 'Seaded',
+
+        // Auto play next episode
+        s238: 'Jah'
     });

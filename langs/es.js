@@ -80,15 +80,18 @@ var i18n = (
         s068: 'Efecto Blur del media art',
         s069: 'Reproducción',
         s070: 'Modo de reproducción',
-        s071: 'Reproducir automáticamente siguiente capítulo',
+        s071: 'Auto-reproducir siguiente capítulo',
+
+        // Auto play next episode
         s072: 'Preguntar',
+
         s073: 'Despertar controles',
         s074: 'Mover cursor',
         s075: 'Pulsar botón',
         s076: 'Cursor o botón',
         s077: 'Tráilers del cine',
         s078: 'Intervalo de búsqueda',
-        s079: 'Tiempo de espera de los controles',
+        s079: 'Tiempo de espera controles',
         s080: 'Transcodificación',
         s081: 'Calidad',
         s082: 'Calidad de transcodificación',
@@ -137,11 +140,11 @@ var i18n = (
         s125: 'Formato de transcodificación',
         s126: 'Bitrate',
         s127: 'Bitrate de transcodificación',
-        s128: 'Reproducción de inicio automático',
-        s129: 'Tiempo de espera de reproducción',
+        s128: 'Inicio automático',
+        s129: 'Tiempo de espera',
         s130: 'Reproducción en bucle',
         s131: 'Mostrar color de fondo',
-        s132: 'Calidad visualización de fotos',
+        s132: 'Calidad fotografías',
         s133: 'Anterior',
         s134: 'Siguiente',
         s135: 'Play/Pausa',
@@ -249,5 +252,8 @@ var i18n = (
         s234: 'El período de prueba expira en {0}',
         s235: 'O{0}',
         s236: 'P{0}',
-        s237: 'Opciones'
+        s237: 'Opciones',
+
+        // Auto play next episode
+        s238: 'sí'
     });
