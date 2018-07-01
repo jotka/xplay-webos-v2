@@ -5,7 +5,7 @@ var i18n = (
         s002: 'Kasutajatoeks ja tagasiside andmiseks kirjutage <span style="color:#FFA500">xplay@itkey.ru</span> või külastage foorumit <span style="color:#FFA500">http://xplay.itkey.ru/forum/</span>',
         s003: 'Sisselogimiseks minge <span style="color:#FFA500">https://plex.tv/link</span> ja sisestage eeltoodud kood.',
         s004: 'Proovige uuesti konto sidumist',
-        s005: 'Saadavate serverite loend kasutajale {0}',
+        s005: 'Saadavate serverite loend kasutajale <span style="color:#FFA500">{0}</span>',
         s006: 'Plex Media servereid pole saadaval',
         s007: 'Tühista',
         s008: 'Eemalda {0}',
