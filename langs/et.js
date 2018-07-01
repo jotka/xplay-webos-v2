@@ -6,7 +6,7 @@ var i18n = (
         s003: 'Sisselogimiseks minge <span style="color:#FFA500">https://plex.tv/link</span> ja sisestage eeltoodud kood.',
         s004: 'Proovige uuesti konto sidumist',
         s005: 'Saadavate serverite loend kasutajale {0}',
-        s006: 'Plex Media servereid pole saadaval',
+        s006: 'Plex Media Servereid pole saadaval',
         s007: 'Tühista',
         s008: 'Eemalda {0}',
         s009: 'Sisesta Plex konto PIN-kood',
