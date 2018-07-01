@@ -31,7 +31,7 @@ var i18n = (
         // -- Library (section) --
 
         s027: 'filtreeritud',
-        s028: ' - ',
+        s028: ' leht ',
         s029: 'Meediakogu on tühi',
         s030: 'Ühtegi vastet ei leitud',
 
@@ -60,7 +60,7 @@ var i18n = (
         s048: 'Tunnusmuusika',
         s049: 'Ei',
         s050: 'Jah',
-        s051: 'Kordus',
+        s051: 'Korduv',
         s052: 'Ekraanisäästja',
         s053: 'Keelatud',
         s054: 'Meediahinnang',
