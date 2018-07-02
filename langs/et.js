@@ -95,7 +95,7 @@ var i18n = (
         s080: 'Transkodeerimine',
         s081: 'Kvaliteet',
         s082: 'Transkodeerimise kvaliteet',
-        s083: 'Algne',
+        s083: 'Originaal',
         s084: 'Helivõimendus',
         s085: 'Transkodeerimise helivõimendus',
         s086: 'Väike',
