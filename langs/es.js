@@ -5,7 +5,7 @@ var i18n = (
         s002: 'Correo electrónico de soporte y feedback <span style="color:#FFA500">xplay@itkey.ru</span> o visita el foro <span style="color:#FFA500">http://xplay.itkey.ru/forum/</span>',
         s003: 'Para iniciar sesión, visita <span style="color:#FFA500">https://plex.tv/link</span> y escribe el codigo que aparecerá.',
         s004: 'Volver a intentar la unión con la cuenta',
-        s005: 'The list of available servers for {0}',
+        s005: 'La lista de servidores disponibles para {0}',
         s006: 'Plex Media Servers no disponible',
         s007: 'Cancelar',
         s008: 'Desconectar {0}',
