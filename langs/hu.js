@@ -16,7 +16,7 @@ var i18n = (
         s013: 'A teszt időszak lejárt',
         s014: '{0} offline indításod maradt. Csatlakoztasd a TV-t az Internethez.',
         s015: 'Csatlakoztasd a TV-t az Internezhez az aktiváció állapotának visszaállításához',
-        s016: 'Epizód {0}',
+        s016: 'Rész {0}',
         s017: 'Évad {0}',
         s018: 'Nézetlen',
         s019: '{0} rész',
@@ -31,7 +31,7 @@ var i18n = (
         // -- Library (section) --
 
         s027: 'szűrt',
-        s028: ' of ',
+        s028: ' / ',
         s029: 'Üres könyvtár',
         s030: 'Nem található egyezés',
 
@@ -80,7 +80,7 @@ var i18n = (
         s068: 'Media art blur effect',
         s069: 'Playback',
         s070: 'Playback mode',
-        s071: 'Következő epizód automata lejátszása',
+        s071: 'Következő rész indítása',
 
         // Auto play next episode
         s072: 'Ask',
@@ -91,7 +91,7 @@ var i18n = (
         s077: 'Mozi előzetesek',
         s078: 'Gyorstekerési intervallum',
         s079: 'Controls timeout',
-        s080: 'Transzkódkolás',
+        s080: 'Transzkódolás',
         s081: 'Minőség',
         s082: 'Transzkódolás minősége',
         s083: 'Eredeti',
@@ -238,7 +238,7 @@ var i18n = (
         s221: 'Frissítés',
         s222: 'View grid size',
         s223: 'Lejátszási sor újraindítása ...',
-        s224: 'Következő epizód lejátszása?',
+        s224: 'Következő rész lejátszása?',
         s225: 'Lejátszás',
         s226: 'Aw, Snap! Something went wrong and we were unable to toggle media watch status',
         s227: 'Megszakítottad a videó lejátszását',
@@ -250,7 +250,7 @@ var i18n = (
         s233: 'Demo időszak lejár {0} nap múlva',
         s234: 'Demo időszak lejár {0}',
         s235: 'É{0}',
-        s236: 'E{0}',
+        s236: 'R{0}',
         s237: 'Beállítások',
 
         // Auto play next episode

@@ -77,7 +77,7 @@ var i18n = (
         s068: 'Achtergrond blur effect',
         s069: 'Afspelen',
         s070: 'Afspeelmodus',
-        s071: 'Speel volgende aflevering automatisch',
+        s071: 'Speel volgende aflevering',
 
         // Auto play next episode
         s072: 'Vraag',

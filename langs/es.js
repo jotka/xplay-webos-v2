@@ -80,7 +80,7 @@ var i18n = (
         s068: 'Efecto Blur del media art',
         s069: 'Reproducción',
         s070: 'Modo de reproducción',
-        s071: 'Auto-reproducir siguiente capítulo',
+        s071: 'Auto-reproducir capítulos',
 
         // Auto play next episode
         s072: 'Preguntar',
