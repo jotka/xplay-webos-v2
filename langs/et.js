@@ -176,7 +176,7 @@ var i18n = (
 
         // -- ... --
 
-        s161: 'Meedia vaadatud/vaatamata oleku ümberlülitamine ...',
+        s161: 'Meedia vaadatud/vaatamata oleku muutmine ...',
         s162: 'Aktiveerimisoleku taastamiseks ja taasesituse piirangu eemaldamiseks <br/> peate ühendama teleri internetiga',
         s163: 'Taasesituspiirangu eemaldamiseks peate ühendama teleri internetiga',
         s164: 'See programmi versioon on piiratud kasutusajaga.<br/>Sa ei saa enam meediafaile mängida.',
@@ -241,7 +241,7 @@ var i18n = (
         s223: 'Taaskäivita esitusjärjekord ...',
         s224: 'Kas mängida järgmine osa?',
         s225: 'Mängi',
-        s226: 'Oops! Midagi läks valesti ja meedia vaadatud/vaatamata oleku ümberlülitamine ebaõnnestus',
+        s226: 'Oops! Midagi läks valesti ja meedia vaadatud/vaatamata oleku muutmine ebaõnnestus',
         s227: 'Katkestasite video taasesituse',
         s228: 'Võrgu viga põhjustas video allalaadimise poolelijätmise',
         s229: 'Video taasesitus katkestati rikutud video tõttu või teie brauser ei toeta vastavat videovormingut',
