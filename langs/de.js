@@ -197,7 +197,7 @@ var i18n = (
         s183: 'Dashboardinformationen abrufen ...',
         s184: 'Aw, Snap! Something went wrong and we were unable to process server response',
         s185: 'Home',
-        s186: 'Continue watching',
+        s186: 'Weiter anschauen',
         s187: 'Zuletzt hinzugefügt',
         s188: 'Weiter bei {0}',
         s189: 'Von Anfang an starten',
