@@ -248,5 +248,8 @@ var i18n = (
         s234: 'Demo Zeitraum läuft ab in {0}',
         s235: 'S{0}',
         s236: 'E{0}',
-        s237: 'Einstellungen'
+        s237: 'Einstellungen',
+
+        // Auto play next episode
+        s238: 'Ja'
     });
