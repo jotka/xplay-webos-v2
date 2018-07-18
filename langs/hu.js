@@ -254,5 +254,13 @@ var i18n = (
         s237: 'Beállítások',
 
         // Auto play next episode
-        s238: 'Igen'
+        s238: 'Igen',
+
+        //
+        s239: 'Keresés a {0}',
+        s240: 'h [óra] mm [perc]',
+        s241: 'mm [perc] ss [sec]',
+        s242: 'mm [perc]',
+        s243: 'ss [sec]'
+
     });

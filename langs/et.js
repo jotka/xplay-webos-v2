@@ -255,5 +255,13 @@ var i18n = (
         s237: 'Seaded',
 
         // Auto play next episode
-        s238: 'Jah'
+        s238: 'Jah',
+
+        //
+        s239: 'Search in {0}',
+        s240: 'h [t] mm [min]',
+        s241: 'mm [min] ss [sec]',
+        s242: 'mm [min]',
+        s243: 'ss [sec]'
+
     });

@@ -1,6 +1,6 @@
 var i18n = (
     {
-        s000: 'English langauge by bublikOff <span style="color:#FFA500">xplay@itkey.ru</span>',
+        s000: 'English language by bublikOff <span style="color:#FFA500">xplay@itkey.ru</span>',
         s001: 'Restart',
         s002: 'Email for support and feedback <span style="color:#FFA500">xplay@itkey.ru</span> or visit forum <span style="color:#FFA500">http://xplay.itkey.ru/forum/</span>',
         s003: 'To sign in, visit <span style="color:#FFA500">https://plex.tv/link</span> and enter the code above.',
@@ -234,7 +234,7 @@ var i18n = (
         s216: 'By Folders',
         s217: 'Creating playback queue ...',
         s218: 'Requesting library items ...',
-        s219: 'Aw, Snap! Something went wrong while comunicating with {0}',
+        s219: 'Aw, Snap! Something went wrong while communicating with {0}',
         s220: 'Requesting library items ...',
         s221: 'Refresh',
         s222: 'View grid size',
@@ -255,5 +255,12 @@ var i18n = (
         s237: 'Settings',
 
         // Auto play next episode
-        s238: 'Yes'
+        s238: 'Yes',
+
+        //
+        s239: 'Search in {0}',
+        s240: 'h [h] mm [min]',
+        s241: 'mm [min] ss [sec]',
+        s242: 'mm [min]',
+        s243: 'ss [sec]'
     });

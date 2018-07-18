@@ -250,10 +250,17 @@ var i18n = (
         s232: 'Un error desconocido ocurrió',
         s233: 'El período de prueba expira en {0} dia(s)',
         s234: 'El período de prueba expira en {0}',
-        s235: 'O{0}',
-        s236: 'P{0}',
+        s235: 'T{0}',
+        s236: 'E{0}',
         s237: 'Opciones',
 
         // Auto play next episode
-        s238: 'sí'
+        s238: 'sí',
+
+        //
+        s239: 'Buscar en la {0}',
+        s240: 'h [hr] mm [min]',
+        s241: 'mm [min] ss [sec]',
+        s242: 'mm [min]',
+        s243: 'ss [sec]'
     });

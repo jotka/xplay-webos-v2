@@ -252,5 +252,13 @@ var i18n = (
         s237: 'Instellingen',
 
         // Auto play next episode
-        s238: 'Ja'
-      });
+        s238: 'Ja',
+
+        //
+        s239: 'Zoeken in {0}',
+        s240: 'h [uur] mm [min]',
+        s241: 'mm [min] ss [sec]',
+        s242: 'mm [min]',
+        s243: 'ss [sec]'
+
+    });
