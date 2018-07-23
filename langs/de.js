@@ -255,8 +255,8 @@ var i18n = (
 
         //
         s239: 'Suche in der {0}',
-        s240: 'h [h] mm [min]',
-        s241: 'mm [min] ss [sec]',
+        s240: 'h [st] mm [min]',
+        s241: 'mm [min] ss [sek]',
         s242: 'mm [min]',
-        s243: 'ss [sec]'
+        s243: 'ss [sek]'
     });

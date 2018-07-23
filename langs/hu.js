@@ -259,8 +259,8 @@ var i18n = (
         //
         s239: 'Keresés a {0}',
         s240: 'h [óra] mm [perc]',
-        s241: 'mm [perc] ss [sec]',
+        s241: 'mm [perc] ss [mp]',
         s242: 'mm [perc]',
-        s243: 'ss [sec]'
+        s243: 'ss [mp]'
 
     });

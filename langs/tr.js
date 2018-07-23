@@ -259,9 +259,9 @@ var i18n = (
 
         //
         s239: 'Ara: {0}',
-        s240: 'h [s] mm [dk]',
-        s241: 'mm [dk] ss [sec]',
+        s240: 'h [sa] mm [dk]',
+        s241: 'mm [dk] ss [sn]',
         s242: 'mm [dk]',
-        s243: 'ss [sec]'
+        s243: 'ss [sn]'
 
     });

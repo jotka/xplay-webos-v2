@@ -260,8 +260,8 @@ var i18n = (
         //
         s239: 'Search in {0}',
         s240: 'h [t] mm [min]',
-        s241: 'mm [min] ss [sec]',
+        s241: 'mm [min] ss [sek]',
         s242: 'mm [min]',
-        s243: 'ss [sec]'
+        s243: 'ss [sek]'
 
     });

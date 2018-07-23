@@ -253,8 +253,8 @@ var i18n = (
         s232: 'Tharla earráid anaithnid',
         s233: 'Téann tréimhse taispeána in {0} lá (í)',
         s234: 'Téann tréimhse taispeána in {0}',
-        s235: 'S {0}',
-        s236: 'E {0}',
+        s235: 'S{0}',
+        s236: 'E{0}',
         s237: 'Socruithe',
 
         // Auto play next episode
