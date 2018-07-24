@@ -1,6 +1,6 @@
 var i18n = (
     {
-        s000: 'Nederlandse vertaling door Frans Twisk <span style="color:#FFA500">work@franstwisk.nl</span>',
+        s000: 'Nederlandse vertaling door Frans Twisk', // <span style="color:#FFA500">work@franstwisk.nl</span>',
         s001: 'Herstart',
         s002: 'Email voor support en feedback <span style="color:#FFA500">xplay@itkey.ru</span> of bezoek het forum <span style="color:#FFA500">http://xplay.itkey.ru/forum/</span>',
         s003: 'Om in te loggen bezoek <span style="color:#FFA500">https://plex.tv/link</span> en vul bovenstaande code in.',
@@ -259,6 +259,13 @@ var i18n = (
         s240: 'h [uur] mm [min]',
         s241: 'mm [min] ss [sec]',
         s242: 'mm [min]',
-        s243: 'ss [sec]'
+        s243: 'ss [sec]',
+
+
+        s244: 'Direct',
+
+        s245: '{0} min',
+        s246: '{0} sec'
+
 
     });

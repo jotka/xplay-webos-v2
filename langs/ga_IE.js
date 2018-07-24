@@ -1,6 +1,6 @@
 var i18n = (
     {
-        s000: 'Béarla ag by Darren McEntee <span style="color:#FFA500">darren.mcentee@gmail.com</span>',
+        s000: 'Béarla ag by Darren McEntee', // <span style="color:#FFA500">darren.mcentee@gmail.com</span>',
         s001: 'Athshlánú',
         s002: 'Ríomhphost le haghaidh tacaíochta agus aiseolas <span style="color:#FFA500">xplay@itkey.ru</span> nó tabhair cuairt ar fhóram <span style="color:#FFA500">http://xplay.itkey.ru/forum/</span>',
         s003: 'Chun comhartha isteach, tabhair cuairt ar <span style="color:#FFA500">https://plex.tv/link</span> agus cuir isteach an cód thuas.',
@@ -265,6 +265,12 @@ var i18n = (
         s240: 'h [h] mm [min]',
         s241: 'mm [min] ss [sec]',
         s242: 'mm [min]',
-        s243: 'ss [sec]'
+        s243: 'ss [sec]',
+
+
+        s244: 'Díreach',
+
+        s245: '{0} min',
+        s246: '{0} sec'
 
     });

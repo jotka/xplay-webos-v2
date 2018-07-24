@@ -244,7 +244,7 @@ var i18n = (
         s226: 'Aw, Snap! Something went wrong and we were unable to toggle media watch status',
         s227: 'You aborted the video playback',
         s228: 'A network error caused the video download to fail part-way',
-        s229: 'The video playback was aborted due to a corruption problem or because the video used features your browser did not support',
+        s229: 'The video playback was aborted due to a corruption problem or because the video used features your player did not support',
         s230: 'The video could not be loaded, either because the server or network failed or because the format is not supported',
         s231: 'An unknown error occurred (undefined code)',
         s232: 'An unknown error occurred',
@@ -262,5 +262,10 @@ var i18n = (
         s240: 'h [h] mm [min]',
         s241: 'mm [min] ss [sec]',
         s242: 'mm [min]',
-        s243: 'ss [sec]'
+        s243: 'ss [sec]',
+
+        s244: 'Direct',
+
+        s245: '{0} min',
+        s246: '{0} sec'
     });

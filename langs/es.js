@@ -1,6 +1,6 @@
 var i18n = (
     {
-        s000: 'Traducción al Español por LFLR <span style="color:#FFA500">lflr@my-hdd.com</span>',
+        s000: 'Traducción al Español por LFLR', // <span style="color:#FFA500">lflr@my-hdd.com</span>',
         s001: 'Reiniciar',
         s002: 'Correo electrónico de soporte y feedback <span style="color:#FFA500">xplay@itkey.ru</span> o visita el foro <span style="color:#FFA500">http://xplay.itkey.ru/forum/</span>',
         s003: 'Para iniciar sesión, visita <span style="color:#FFA500">https://plex.tv/link</span> y escribe el codigo que aparecerá.',
@@ -262,5 +262,11 @@ var i18n = (
         s240: 'h [hr] mm [min]',
         s241: 'mm [min] ss [seg]',
         s242: 'mm [min]',
-        s243: 'ss [seg]'
+        s243: 'ss [seg]',
+
+
+        s244: 'Direct',
+
+        s245: '{0} min',
+        s246: '{0} seg'
     });

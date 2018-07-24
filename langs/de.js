@@ -258,5 +258,10 @@ var i18n = (
         s240: 'h [st] mm [min]',
         s241: 'mm [min] ss [sek]',
         s242: 'mm [min]',
-        s243: 'ss [sek]'
+        s243: 'ss [sek]',
+
+        s244: 'Direkte',
+
+        s245: '{0} min',
+        s246: '{0} sek'
     });

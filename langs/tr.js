@@ -1,6 +1,6 @@
 var i18n = (
     {
-        s000: 'Türkçe çeviri: kron0S <span style="color:#FFA500">futufan@outlook.com</span>',
+        s000: 'Türkçe çeviri: kron0S', // <span style="color:#FFA500">futufan@outlook.com</span>',
         s001: 'Yeniden Başlat',
         s002: 'Destek ve geri bildirim için e-mail: <span style="color:#FFA500">xplay@itkey.ru</span> veya forum: <span style="color:#FFA500">http://xplay.itkey.ru/forum/</span>',
         s003: 'Giriş yapmak için <span style="color:#FFA500">https://plex.tv/link</span> adresine gidin ve TV\'deki kodu girin.',
@@ -262,6 +262,12 @@ var i18n = (
         s240: 'h [sa] mm [dk]',
         s241: 'mm [dk] ss [sn]',
         s242: 'mm [dk]',
-        s243: 'ss [sn]'
+        s243: 'ss [sn]',
+
+
+        s244: 'Direkt',
+
+        s245: '{0} dk',
+        s246: '{0} sn'
 
     });

@@ -1,6 +1,6 @@
 var i18n = (
     {
-        s000: 'Traduction française par Fred HALFON <span style="color:#FFA500">xplay@itkey.ru</span>',
+        s000: 'Traduction française par Fred HALFON', // <span style="color:#FFA500">xplay@itkey.ru</span>',
         s001: 'Redémarrer',
         s002: 'Email pour le support et les avis <span style="color:#FFA500">xplay@itkey.ru</span> ou visiter le forum <span style="color:#FFA500">http://xplay.itkey.ru/forum/</span>',
         s003: 'Pour vous connecter, allez sur <span style="color:#FFA500">https://plex.tv/link</span> et saisissez le code ci-dessus.',
@@ -194,7 +194,7 @@ var i18n = (
         s176: 'Connexion à {0} ...',
         s177: 'Ohh mince, un problème est survenu et l\'authentification à {0} a échoué',
         s178: 'Ohh mince, un problème est survenu et la communication avec {0} a échoué',
-        s179: 'Impossible de charger la liste des serveurs Plex via l''API Plex',
+        s179: 'Impossible de charger la liste des serveurs Plex via l\'API Plex',
         s180: 'Impossible de contacter l\'API Plex',
         s181: 'Récupération des informations du compte ...',
         s182: 'Connection à plex.tv ...',
@@ -245,7 +245,7 @@ var i18n = (
         s227: 'Vous avez annulé la lecture du média',
         s228: 'Un erreur réseau a empeché le téléchargemnt de la vidéo',
         s229: 'La lecteur de la vidéo a été interrompue suite à un problème de corruption ou parce que la vidéo utilise des fonctionnalités que votre navigateur ne supporte pas',
-        s230: 'La vidéo ne peut pas être lue, soit à cause du serveur soit à cause du réseau soit parce que son format n''est pas supporté',
+        s230: 'La vidéo ne peut pas être lue, soit à cause du serveur soit à cause du réseau soit parce que son format n\'est pas supporté',
         s231: 'Une erreur inconnue est survenue (code indéfini)',
         s232: 'Une erreur inconnue est survenue',
         s233: 'La période de démo expire dans {0} jour(s)',
@@ -262,5 +262,10 @@ var i18n = (
         s240: 'h [h] mm [min]',
         s241: 'mm [min] ss [sec]',
         s242: 'mm [min]',
-        s243: 'ss [sec]'
+        s243: 'ss [sec]',
+
+        s244: 'Directe',
+
+        s245: '{0} min',
+        s246: '{0} sec'
     });

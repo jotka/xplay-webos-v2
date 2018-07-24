@@ -1,6 +1,6 @@
 var i18n = (
     {
-        s000: 'Lingua Italiana by Red <span style="color:#FFA500">pirloste@hotmail.com</span>',
+        s000: 'Lingua Italiana by Red', // <span style="color:#FFA500">pirloste@hotmail.com</span>',
         s001: 'Ricomincia',
         s002: 'Email per supporto e risposte <span style="color:#FFA500">pirloste@hotmail.com</span> oppure visita il forum <span style="color:#FFA500">http://xplay.itkey.ru/forum/</span>',
         s003: 'Per accedere, visita <span style="color:#FFA500">https://plex.tv/link</span> ed inserisci il codice sopra indicato.',
@@ -262,6 +262,12 @@ var i18n = (
         s240: 'h [hr] mm [min]',
         s241: 'mm [min] ss [sec]',
         s242: 'mm [min]',
-        s243: 'ss [sec]'
+        s243: 'ss [sec]',
+
+
+        s244: 'Diretta',
+
+        s245: '{0} min',
+        s246: '{0} sec'
 
     });

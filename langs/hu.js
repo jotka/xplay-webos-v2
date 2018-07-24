@@ -1,6 +1,6 @@
 var i18n = (
     {
-        s000: 'Magyar nyelvre fordította Németh Csaba <span style="color:#FFA500">1soproni@gmail.com</span>',
+        s000: 'Magyar nyelvre fordította Németh Csaba', // <span style="color:#FFA500">1soproni@gmail.com</span>',
         s001: 'Újraindítás',
         s002: 'Visszajelzés és a támogatás <span style="color:#FFA500">xplay@itkey.ru</span> vagy látogasd meg a fórumot <span style="color:#FFA500">http://xplay.itkey.ru/forum/</span>',
         s003: 'A bejelentkezéshez látogasd meg ezt <span style="color:#FFA500">https://plex.tv/link</span> és írd be a kódot.',
@@ -261,6 +261,12 @@ var i18n = (
         s240: 'h [óra] mm [perc]',
         s241: 'mm [perc] ss [mp]',
         s242: 'mm [perc]',
-        s243: 'ss [mp]'
+        s243: 'ss [mp]',
+
+
+        s244: 'Direkt',
+
+        s245: '{0} perc',
+        s246: '{0} mp'
 
     });
