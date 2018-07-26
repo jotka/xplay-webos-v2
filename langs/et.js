@@ -244,7 +244,7 @@ var i18n = (
         s226: 'Oops! Midagi läks valesti ja meedia vaadatud/vaatamata oleku muutmine ebaõnnestus',
         s227: 'Katkestasite video taasesituse',
         s228: 'Võrgu viga põhjustas video allalaadimise poolelijätmise',
-        s229: 'Video taasesitus katkestati rikutud video tõttu või teie brauser ei toeta vastavat videovormingut',
+        s229: 'Video taasesitus katkestati rikutud video tõttu või teie mängija ei toeta vastavat videovormingut',
         s230: 'Videot ei õnnestunud laadida serveri/võrgu vea tõttu või vastavat videovormingut ei toetata',
         s231: 'Ilmnes tundmatu viga (määratlemata kood)',
         s232: 'Ilmnes tundmatu viga',
